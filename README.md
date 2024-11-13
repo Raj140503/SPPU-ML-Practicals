@@ -1,1 +1,1 @@
-# SPPU-ML-Practicals
+# SPPU ML Practicals
